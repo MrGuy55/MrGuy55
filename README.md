@@ -1,5 +1,7 @@
 Hi i'm MrGuy55. i don't have any projects currently. I'm not overly familiar with a lot of languages currently, however I do plan on learning C and C++
 
+<h1>I love Aerith!!!</h1>
+
 
 <!--
 **MrGuy55/MrGuy55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
